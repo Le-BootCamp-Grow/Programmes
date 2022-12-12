@@ -92,7 +92,7 @@ Week 11 - Frontend: CSS3 Frameworks (I)
 - Thursday: SCSS and its features (cont.)
 - Friday: Hands-on project using a CSS3 framework (self-made)
 
-Week 11 - Backend: Introduction with server-side programming
+Week 11 - Backend: Introduction to server-side programming
 
 - Monday: Introduction to server-side programming with Node.js and Express
 - Tuesday: Server-side programming with Node.js and Express (cont.)
