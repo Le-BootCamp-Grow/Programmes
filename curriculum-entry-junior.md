@@ -1,123 +1,123 @@
 Week 1: Introduction to Web Development
 
-- Monday: Introduction to HTML5 and basic HTML tags
-- Tuesday: Basic CSS concepts and styles
-- Wednesday: Introduction to JavaScript and basic syntax
-- Thursday: Hands-on project using HTML, CSS, and JavaScript
-- Friday: Introduction to GitHub and version control
+- Day 1: Introduction to HTML5 and basic HTML tags
+- Day 2: Basic CSS concepts and styles
+- Day 3: Introduction to JavaScript and basic syntax
+- Day 4: Hands-on project using HTML, CSS, and JavaScript
+- Day 5: Introduction to GitHub and version control
 
 Week 2: HTML and CSS Fundamentals
 
-- Monday: HTML text elements and formatting
-- Tuesday: CSS styling and layout
-- Wednesday: Activity/Project using HTML & CSS
-- Thursday: CSS typography and text styles
-- Friday: Create a simple journal website using HTML and CSS.
+- Day 1: HTML text elements and formatting
+- Day 2: CSS styling and layout
+- Day 3: Activity/Project using HTML & CSS
+- Day 4: CSS typography and text styles
+- Day 5: Create a simple journal website using HTML and CSS.
 
 Week 3: HTML and CSS Fundamentals (cont.)
 
-- Monday: HTML forms and input elements
-- Tuesday: CSS positioning
-- Wednesday: Activity/Project using HTML &  CSS
-- Thursday: (a) CSS Box Model 
+- Day 1: HTML forms and input elements
+- Day 2: CSS positioning
+- Day 3: Activity/Project using HTML &  CSS
+- Day 4: (a) CSS Box Model 
 - (b) Browser Developer tools
-- Friday: Create a simple wiki website using HTML5 and CSS3.
+- Day 5: Create a simple wiki website using HTML5 and CSS3.
 
 Week 4: JavaScript Fundamentals
 
-- Monday: Basic JavaScript syntax and control structures
-- Tuesday: JavaScript concepts, variables and data types
-- Wednesday: Simple JavaScript activities
-- Thursday: Functions, loops, arrays, objects and classes
-- Friday: Working with the DOM (The basics)
+- Day 1: Basic JavaScript syntax and control structures
+- Day 2: JavaScript concepts, variables and data types
+- Day 3: Simple JavaScript activities
+- Day 4: Functions, loops, arrays, objects and classes
+- Day 5: Working with the DOM (The basics)
 
 Week 5: Advanced topics in HTML and CSS
 
-- Monday: HTML site navigation and multimedia elements
-- Tuesday: Advanced CSS styling and positioning
-- Wednesday: CSS positioning activities
-- THursday: HTML5 semantic elements and form controls
-- Friday: Build a website hero section
+- Day 1: HTML site navigation and multimedia elements
+- Day 2: Advanced CSS styling and positioning
+- Day 3: CSS positioning activities
+- Day 4: HTML5 semantic elements and form controls
+- Day 5: Build a website hero section
 
 Week 6: Hands-on projects using HTML, CSS, JS and GitHub
 
-- Monday: Version control with Git and GitHub
-- Tuesday: Simple photo gallery using HTML5, CSS3, and JavaScript
-- Wednesday: Simple Our Team page using image cards
-- Thursday: Shades - A simple landing page
-- Friday: Andela website clone 
+- Day 1: Version control with Git and GitHub
+- Day 2: Simple photo gallery using HTML5, CSS3, and JavaScript
+- Day 3: Simple Our Team page using image cards
+- Day 4: Shades - A simple landing page
+- Day 5: Andela website clone 
 
 Break: 1 week
 
 Week 7: Web Design and User Experience
 
-- Monday: (a) Introduction to web design principles
+- Day 1: (a) Introduction to web design principles
 - (b) Designing and building for user experience: web performance optimization and best practices for improving website speed and performance.
-- Tuesday: Designing and building for accessibility
-- Wednesday: Hands-on project using design principles
-- Thursday: Creating wireframes and prototypes
-- Friday: Creating a simple style guide
+- Day 2: Designing and building for accessibility
+- Day 3: Hands-on project using design principles
+- Day 4: Creating wireframes and prototypes
+- Day 5: Creating a simple style guide
 
 Week 8: Responsive Web Design
 
-- Monday: Introduction to responsive design and mobile-first development
-- Tuesday: Media queries and breakpoints
+- Day 1: Introduction to responsive design and mobile-first development
+- Day 2: Media queries and breakpoints
 - (b) Debugging and troubleshooting web applications
-- Wednesday: Responsive images and videos
-- Thursday: Building a responsive layout
-- Friday: Hands-on project using responsive design
+- Day 3: Responsive images and videos
+- Day 4: Building a responsive layout
+- Day 5: Hands-on project using responsive design
 
 Week 9: Advanced HTML and CSS
 
-- Monday: HTML5 semantics and microdata
-- Tuesday: CSS animations and transitions
-- Wednesday: Responsive images with CSS
-- Thursday: CSS grid and flexbox
-- Friday: Hands-on project using advanced HTML and CSS
+- Day 1: HTML5 semantics and microdata
+- Day 2: CSS animations and transitions
+- Day 3: Responsive images with CSS
+- Day 4: CSS grid and flexbox
+- Day 5: Hands-on project using advanced HTML and CSS
 
 Week 10: Advanced JavaScript
 
-- Monday: Introduction to AJAX and APIs
-- Tuesday: Working with JSON data
-- Wednesday: Asynchronous JavaScript and Promises
-- Thursday: Introduction to Node.js and NPM
-- Friday: Hands-on project using advanced JavaScript
+- Day 1: Introduction to AJAX and APIs
+- Day 2: Working with JSON data
+- Day 3: Asynchronous JavaScript and Promises
+- Day 4: Introduction to Node.js and NPM
+- Day 5: Hands-on project using advanced JavaScript
 
 Week 11 - Frontend: CSS3 Frameworks (I)
 
-- Monday: Introduction to CSS3 frameworks
+- Day 1: Introduction to CSS3 frameworks
 - (b) Tailwind CSS and its components
-- Tuesday: Tailwind CSS and its components (Cont.)
-- Wednesday: SCSS and its features
-- Thursday: SCSS and its features (cont.)
-- Friday: Hands-on project using a CSS3 framework (self-made)
+- Day 2: Tailwind CSS and its components (Cont.)
+- Day 3: SCSS and its features
+- Day 4: SCSS and its features (cont.)
+- Day 5: Hands-on project using a CSS3 framework (self-made)
 
 Week 11 - Backend: Introduction to server-side programming
 
-- Monday: Introduction to server-side programming with Node.js and Express
-- Tuesday: Server-side programming with Node.js and Express (cont.)
-- Wednesday: Building a basic server-side application using Node.js and Express
-- Thursday: Introduction to database management and SQL.
+- Day 1: Introduction to server-side programming with Node.js and Express
+- Day 2: Server-side programming with Node.js and Express (cont.)
+- Day 3: Building a basic server-side application using Node.js and Express
+- Day 4: Introduction to database management and SQL.
 - (b) Working with databases in a web application.
-- Friday: Hands-on project using Node.js and Express - Authentication, form POST & form validation (self-made)
+- Day 5: Hands-on project using Node.js and Express - Authentication, form POST & form validation (self-made)
 
 Week 11 - Fullstack: Frontend + Backend courses
 
-- Friday: Building a full-stack web application, integrating all of the concepts learned so far (self-made)
+- Day 5: Building a full-stack web application, integrating all of the concepts learned so far (self-made)
 
 Week 11 - Cloud: Introduction with server-side programming
 
-- Monday: Introduction to cloud computing and deploying web applications to the cloud.
-- Tuesday: and deploying web applications to the cloud. (cont.)
-- Wednesday: Working with Amazon Web Services
-- Thursday: Working with Google Cloud Platform (cont.)
-- Friday: Building a cloud-based web application, integrating all of the concepts learned so far (self-made)
+- Day 1: Introduction to cloud computing and deploying web applications to the cloud.
+- Day 2: and deploying web applications to the cloud. (cont.)
+- Day 3: Working with Amazon Web Services
+- Day 4: Working with Google Cloud Platform (cont.)
+- Day 5: Building a cloud-based web application, integrating all of the concepts learned so far (self-made)
 
 Week 12: Real-World website Development (Collaboration)
 
-- Monday: Introduction to building a real-world website
+- Day 1: Introduction to building a real-world website
 - (b) Designing and planning the website layout and content
-- Tuesday: Developing the website using HTML, CSS, and JavaScript
-- Wednesday: More advanced Git and GitHub concepts, including branching and merging.
-- Thursday: Adding interactivity and functionality to the website
-- Friday: Hands-on project building a real-world website (self-made)
+- Day 2: Developing the website using HTML, CSS, and JavaScript
+- Day 3: More advanced Git and GitHub concepts, including branching and merging.
+- Day 4: Adding interactivity and functionality to the website
+- Day 5: Hands-on project building a real-world website (self-made)
