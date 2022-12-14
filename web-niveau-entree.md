@@ -4,7 +4,7 @@
 ### Semaine 1 : Introduction au développement web
 
 - Jour 1 : [Introduction à HTML5 et aux balises HTML de base](https://github.com/Le-BootCamp-Grow/supports-de-cours/tree/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_1)
-- Jour 2 : Concepts et styles de base en CSS
+- Jour 2 : [Concepts et styles de base en CSS](https://github.com/Le-BootCamp-Grow/supports-de-cours/tree/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2)
 - Jour 3 : Introduction à JavaScript et syntaxe de base
 - Jour 4 : Projet pratique utilisant HTML, CSS et JavaScript
 - Jour 5 : Introduction à GitHub et contrôle de version
