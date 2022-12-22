@@ -11,7 +11,7 @@
 
 ### Semaine 2 : Fondamentaux en HTML et CSS
 
-- Jour 1 : Éléments de texte HTML et mise en forme
+- Jour 1 : [Éléments de texte HTML et mise en forme](https://github.com/Le-BootCamp-Grow/supports-de-cours/tree/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_2_jour_1)
 - Jour 2 : Style et mise en page en CSS
 - Jour 3 : Activité/projet utilisant HTML et CSS
 - Jour 4 : Typographie et styles de texte en CSS
