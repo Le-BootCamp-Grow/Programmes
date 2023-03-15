@@ -57,7 +57,7 @@
 
 - Jour 5 : Création d'une application web full-stack, intégrant tous les concepts appris jusqu'à présent ( à créer par soi-même).
 
-Semaine 12 : Développement d'un site web dans le monde réel (collaboration)
+### Semaine 12 : Développement d'un site web dans le monde réel (collaboration)
 
 - Jour 1 : Introduction à la création d'un site Web dans le monde réel.
 - (b) Conception et planification de la mise en page et du contenu du site Web
